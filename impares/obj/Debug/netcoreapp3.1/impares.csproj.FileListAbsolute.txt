@@ -1,0 +1,14 @@
+C:\Users\Rafael\Documents\estudo extra\C# 101\programs\impares\impares\bin\Debug\netcoreapp3.1\impares.exe
+C:\Users\Rafael\Documents\estudo extra\C# 101\programs\impares\impares\bin\Debug\netcoreapp3.1\impares.deps.json
+C:\Users\Rafael\Documents\estudo extra\C# 101\programs\impares\impares\bin\Debug\netcoreapp3.1\impares.runtimeconfig.json
+C:\Users\Rafael\Documents\estudo extra\C# 101\programs\impares\impares\bin\Debug\netcoreapp3.1\impares.runtimeconfig.dev.json
+C:\Users\Rafael\Documents\estudo extra\C# 101\programs\impares\impares\bin\Debug\netcoreapp3.1\impares.dll
+C:\Users\Rafael\Documents\estudo extra\C# 101\programs\impares\impares\bin\Debug\netcoreapp3.1\impares.pdb
+C:\Users\Rafael\Documents\estudo extra\C# 101\programs\impares\impares\obj\Debug\netcoreapp3.1\impares.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\estudo extra\C# 101\programs\impares\impares\obj\Debug\netcoreapp3.1\impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Documents\estudo extra\C# 101\programs\impares\impares\obj\Debug\netcoreapp3.1\impares.AssemblyInfoInputs.cache
+C:\Users\Rafael\Documents\estudo extra\C# 101\programs\impares\impares\obj\Debug\netcoreapp3.1\impares.AssemblyInfo.cs
+C:\Users\Rafael\Documents\estudo extra\C# 101\programs\impares\impares\obj\Debug\netcoreapp3.1\impares.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\estudo extra\C# 101\programs\impares\impares\obj\Debug\netcoreapp3.1\impares.dll
+C:\Users\Rafael\Documents\estudo extra\C# 101\programs\impares\impares\obj\Debug\netcoreapp3.1\impares.pdb
+C:\Users\Rafael\Documents\estudo extra\C# 101\programs\impares\impares\obj\Debug\netcoreapp3.1\impares.genruntimeconfig.cache
