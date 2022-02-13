@@ -6,7 +6,7 @@ namespace impares
     {
         static void Main(string[] args)
         {
-            int X, intervalo;
+            int X;
 
             X = int.Parse(Console.ReadLine());
 
